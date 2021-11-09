@@ -2,9 +2,11 @@
 
 This is a repository for storing a [YAML](https://yaml.org/)-format dictionary of the [aUI language](https://en.wikipedia.org/wiki/AUI_(constructed_language)), created by Dr. John Weilgart in the 1950s as the "Language of Space." The complete dictionary, containing 7646 English terms mapped to 10K+ aUI translations, can be found in the file `aui.yaml`.
 
-The file `fromwebonary.rb` can be used to reproduce the original retrieval of the data from [webonary.work](https://www.webonary.org/aui/overview/foreword/), which hosts the most "official" version of the language's vocabulary. It might be able to be reused for scraping dictionaries of other languages from that site, but I haven't tested this yet. If you use it for this purpose, please respect the proprieters of Webonary and keep the request rate at or above 2 requests/second.
+The file `fromwebonary.rb` can be used to reproduce the original retrieval of the data from [webonary.work](https://www.webonary.org/aui/overview/foreword/), which hosts the most "official" version of the language's vocabulary. It might be able to be reused for retrieving dictionaries of other languages from that site, but I haven't tested this yet. If you use it for this purpose, please respect the proprieters of Webonary and keep the request rate at or above 2 requests/second.
 
 The file `aui.sh` is a quick example of a basic shell script (tested in Bash 5) to retrieve aUI definitions from the dictionary based on an English key. It requires [yq](https://mikefarah.github.io/yq/) and [fzf](https://github.com/junegunn/fzf) to be installed.
+
+<p align="center"><img src="https://github.com/nlc/aUI/blob/master/img/example.gif?raw=true"></p>
 
 ---
 
