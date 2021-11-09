@@ -6,7 +6,7 @@ The file `fromwebonary.rb` can be used to reproduce the original retrieval of th
 
 The file `aui.sh` is a quick example of a basic shell script (tested in Bash 5) to retrieve aUI definitions from the dictionary based on an English key. It requires [yq](https://mikefarah.github.io/yq/) and [fzf](https://github.com/junegunn/fzf) to be installed.
 
-<p align="center"><img src="https://github.com/nlc/aUI/blob/master/img/example.gif?raw=true"></p>
+<p align="center"><img src="https://github.com/nlc/aUI/blob/master/img/example2.gif?raw=true"></p>
 
 ---
 
