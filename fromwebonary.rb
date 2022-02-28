@@ -35,7 +35,7 @@ end
 
 def extract_reversalindex(doc)
   doc.xpath('//div[@id="searchresults"]/div[contains(@class, "post")]/div[contains(@class, "reversalindexentry")]').map do |post_element|
-    english = post_element.at_xpath('./span[contains(@class, "reversalform")]/span').text.chomp
+    english = post_element.at_xpath('./span[contains(@class, "reversalform")]/span').text.chomp.gsub(/\s+/, '_')
     foreigns =
       post_element.xpath('./span[contains(@class, "referringsenses")]/span[contains(@class, "sensecontent")]/span[contains(@class, "referringsense")]').map do |referringsense_element|
         headword = referringsense_element.at_xpath('./span[contains(@class, "headword")]/span[1]')&.text&.chomp
@@ -70,7 +70,7 @@ starting_letters.each do |starting_letter|
   puts extract_reversalindex(letter_doc).to_yaml
   next_page_url = letter_doc.at_xpath('//div[@id="wp_page_numbers"]/ul/li[last()]/a')&.attr('href')
   until next_page_url.nil?
-    response = fetch("#{main_url}#{next_page_url}")
+    response = fetch("#{main_url}#{next_page_url}".gsub(/\s+/, ''))
     html = response.body
     letter_doc = Nokogiri::HTML(html)
     letter_doc.remove_namespaces!
