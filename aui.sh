@@ -8,7 +8,7 @@ else
   dict_key="$(yq eval 'keys' aui.yaml | sed 's/^- //' | fzf)"
   echo "\$(yq eval ".${dict_key}" aui.yaml)"
 
-  dict_def="$(yq eval ".${dict_key}" aui.yaml)"
+  dict_def="$(yq eval ".\"${dict_key}\"" aui.yaml)"
 
   echo
   echo "${dict_key}:"
