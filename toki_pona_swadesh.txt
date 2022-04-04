@@ -1,0 +1,208 @@
+
+I	mi
+you (singular)	sina
+he	ona
+we	mi (mute)
+you (plural)	sina (mute)
+they	ona (mute)
+this	ni
+that	ni
+here	lon ni
+there	lon ni
+who	jan seme
+what	seme
+where	ma seme
+when	tenpo seme
+how	kepeken nasin seme
+not	ala
+all	ale, ali
+many	mute
+some	mute
+few	lili
+other	ante
+one	wan
+two	tu
+three	tu wan
+four	tu tu
+five	luka
+big	suli
+long	suli
+wide	suli
+thick	suli
+heavy	suli
+small	lili
+short	lili
+narrow	lili
+thin	lili
+woman	meli
+man (adult male)	mije
+man (human being)	jan
+child	jan lili
+wife	meli
+husband	mije
+mother	mama (meli)
+father	mama (mije)
+animal	soweli
+fish	kala
+bird	waso
+dog	soweli
+louse	pipi (lawa)
+snake	akesi (linja)
+worm	pipi (linja)
+tree	kasi (suli)
+forest	ma (kasi)
+stick	palisa
+fruit	kili
+seed	pan, kiwen lili kasi
+leaf	(lipu) kasi
+root	noka kasi
+bark (of a tree)	selo (kasi)
+flower	kasi (kule)
+grass	kasi (anpa)
+rope	linja
+skin	selo
+meat	(sijelo) soweli
+blood	telo (sijelo) loje
+bone	kiwen sijelo, palisa sijelo
+fat (noun)	ko (sijelo)
+egg	sike waso, kiwen waso
+horn	palisa (kiwen) (lawa)
+tail	linja (monsi)
+feather	len waso, lipu waso
+hair	linja (lawa)
+head	lawa
+ear	kute
+eye	lukin, oko
+nose	nena (sinpin)
+mouth	uta
+tooth	kiwen uta
+tongue (organ)	nena uta
+fingernail	kiwen pi palisa luka
+foot	noka
+leg	noka
+knee	nena noka
+hand	luka
+wing	luka waso, noka waso
+belly	sinpin sijelo
+guts	insa (sijelo)
+neck	noka lawa
+back	monsi sijelo
+breast	nena meli
+heart	pilin (insa)
+liver	insa (sijelo)
+to drink	moku
+to eat	moku
+to bite	uta, pakala kepeken uta
+to suck	uta, moku
+to spit	pana e telo tan uta
+to vomit	pana e ko tan insa
+to blow	pana e kon
+to breathe	insa e kon
+to laugh	mu musi
+to see	lukin
+to hear	kute
+to know	sona
+to think	toki, pilin
+to smell	pilin kepeken nena
+to fear	pilin ike, monsuta
+to sleep	lape
+to live	awen, lon
+to die	moli
+to kill	moli
+to fight	utala
+to hunt	alasa
+to hit	utala
+to cut	tu, kipisi
+to split	tu, kipisi
+to stab	utala kepeken palisa, kipisi
+to scratch	pakala kepeken luka
+to dig	pali e lupa
+to swim	tawa lon telo
+to fly	tawa lon kon
+to walk	tawa kepeken noka
+to come	kama
+to lie (as in a bed)	lon
+to sit	lon
+to stand	lon
+to turn (intransitive)	tawa sike
+to fall	(tawa) anpa
+to give	pana
+to hold	jo
+to squeeze	lili e ijo kepeken wawa
+to rub	luka
+to wash	telo
+to wipe	utala
+to pull	kama
+to push	pana
+to throw	pana
+to tie	wan
+to sew	pali e len kepeken linja
+to count	nanpa
+to say	toki
+to sing	kalama musi
+to play	musi
+to float	awen lon sewi telo
+to flow	tawa
+to freeze	lete
+to swell	kama suli
+sun	suno
+moon	mun
+star	mun
+water	telo
+rain	telo sewi
+river	telo tawa (linja)
+lake	telo (suli)
+sea	telo (suli)
+salt	ko, namako
+stone	kiwen
+sand	ko
+dust	ko
+earth	ma
+cloud	ijo walo sewi
+fog	kon
+sky	sewi
+wind	kon
+snow	ko walo lete
+ice	kiwen telo
+smoke	kon (pimeja) (seli)
+fire	seli
+ash	ko seli
+to burn	seli
+road	nasin
+mountain	nena
+red	loje
+green	laso
+yellow	jelo
+white	walo
+black	pimeja
+night	tenpo pimeja
+day	tenpo suno
+year	tenpo sike suno
+warm	seli
+cold	lete
+full	jo e ijo mute, pi ijo mute
+new	sin
+old	sin ala
+good	pona
+bad	ike
+rotten	jaki
+dirty	jaki
+straight	sama palisa
+round	sike
+sharp (as a knife)	kipisi
+dull (as a knife)	kipisi ala
+smooth	nena ala
+wet	telo
+dry	telo ala
+correct	pona
+near	lon poka
+far	weka
+right	poka
+left	poka
+at	lon
+in	lon
+with	kepeken, lon poka
+and	en, li, e
+if	la
+because	tan
+name	nimi

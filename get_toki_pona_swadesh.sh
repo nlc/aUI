@@ -1,0 +1,1 @@
+curl 'https://en.wiktionary.org/wiki/Appendix:Toki_Pona_Swadesh_list' | nokogiri -e '$_.xpath("//table[contains(@class, \"wikitable\")]/tbody/tr").map{|e|e.xpath("td").map(&:text)}.map{|e|e[1..2]&.map(&:chomp)&.join("\t")}.each{|e|puts e}'
